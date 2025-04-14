@@ -1,0 +1,322 @@
+body{
+    margin: 0;
+}
+.mmm{
+    text-align: center;
+}
+.hehe button{
+    padding: 15px;
+    color: #00A8DB;
+}
+.tania{
+    margin-top: 200px;
+    margin-bottom: 120px;
+}
+.tania1 h1{
+    font-family: DM Sans;
+font-weight: 700;
+font-size: 36px;
+line-height: 52px;
+letter-spacing: 0.3px;
+color: #034D82;
+}
+.tania1 p{
+font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+letter-spacing: 0.3px;
+color: #90A3B4;
+
+}
+.tania{
+    display: flex;
+    justify-content: space-around;
+}
+.lte7t{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 90px;
+    align-items: center;
+}
+.heade2{
+    margin-left: 80px;
+}
+.bbb5{
+    display: flex;
+    justify-content: space-between;
+}
+.lkabira{
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0px;
+color: white;
+
+}
+.mmm{
+    margin-top: 70px;
+}
+.lkabir{
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 76px;
+    letter-spacing: 0px;    
+    color: white;
+}
+.hehe{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+.headvv{
+    background: linear-gradient(216.04deg, #27C0EF 13.84%, #00A8DB 83.53%);
+}
+
+.heade{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.righ{
+    display: flex;
+    gap: 40px;
+    
+}
+
+.righ button{
+    cursor: pointer;
+    background-color: #034D82;
+    color: white;
+}
+
+.righ p{
+    color: white;
+}
+.cover {
+    background: #e8f5ff;
+    padding: 37px;
+}
+
+.cover > h1 {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 52px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #034D82;
+}
+
+.cover > p {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #8EA9C1;
+}
+
+.container-cards{
+    display: flex;
+    gap: 5%;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.card{
+    BACKGROUND-COLOR: rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 22px;
+    width: 259px;
+    height: 300px;
+    margin-top: 15px;
+}
+
+.card > .content{
+    width: 199px;
+    height: 202px;
+}
+
+.content > h3 {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.2px;
+    color: #034D82;
+}
+
+.content > p {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    color: #8EA9C1;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@media (max-width: 768px) {
+    .card {
+        width: 100%; 
+    }
+}
+@media (min-width: 948px) and (max-width: 1110px) {
+    .card {
+        width: 40%; 
+    }
+}
+
+.cover2 > h1 {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 52px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #034D82;
+}
+.cover2 > p {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #8EA9C1;
+}
+.cover2
+{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    gap: 200px;
+    margin-top: 150px;
+}
+
+.utilisateur{
+display: flex;
+}
+
+.sousutilisatateur
+{
+display: block;
+margin-left: 20px;
+
+}
+
+.right > p {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #8EA9C1;
+}
+
+.right > h1 {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 52px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #034D82;
+}
+
+.left > h1 
+{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #8EA9C1;
+}
+.sousutilisatateur > h2 
+{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 52px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #034D82;
+}
+
+.sousutilisatateur > h3 
+{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #8EA9C1;
+}
+.cover3{
+   background-color: #00B8D9;
+   display: flex;
+   padding: 30px;
+   justify-content: space-around;
+   margin-left: 110px;
+   margin-top: 220px;
+   margin-right: 110px;
+}
+.cover3 h1{
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.3px;
+    color: white;
+}
+.cover3 p {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 14px;
+line-height: 32px;
+letter-spacing: 0.3px;
+color: white;
+}
+.footer{
+    
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.footer p{
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+.footer h1{
+    color: white;
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 36px;
+    margin-top: 0px;
+}
+ .footer1{
+    background: #081315;
+    padding: 70px;
+    margin-top: 220px;
+ }
+ .low{
+    text-align: center;
+    margin-top: 80px;
+    
+ }
+ .child1{
+    margin-top: 10px;
+ }
